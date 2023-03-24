@@ -13,7 +13,7 @@ a = int(input("Write 0 for English, 한국어 안내를 위하여 1 작성해십
 
 if a == 0:
               print(name + number + major + mother_land + age)
-              print(" I think my favourite exersize is hiking?" )
+              print(" I think my favorite exercise is hiking?" )
     
 elif a == 1:
               print(성함 + 학번 + 전공 + 본국 + 나이)
